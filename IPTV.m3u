@@ -9,7 +9,7 @@ http://123.113.11.89:4022/rtp/239.3.1.172:8001
 http://123.113.11.89:4022/rtp/239.3.1.105:8092
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 美洲
 http://123.113.11.89:4022/rtp/239.3.1.214:4220
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4"欧洲 tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 欧洲
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 欧洲
 http://123.113.11.89:4022/rtp/239.3.1.213:4220
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://123.113.11.89:4022/rtp/239.3.1.173:8001
